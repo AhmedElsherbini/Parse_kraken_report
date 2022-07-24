@@ -4,7 +4,7 @@
 Created on Fri Jul 22 14:50:54 2022
 
 @author: ahmed elsherbini
-#the aim of this script to make data 
+#the aim of this script to make data out of kraken2 more easy to be understand!
 """
 ###########################
 import os 
